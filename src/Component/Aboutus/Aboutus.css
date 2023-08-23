@@ -1,0 +1,93 @@
+#about{
+    font-size: 25px;
+    /* margin-top: 50px; */
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#aboutf{
+    margin-top: 250px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#aboutfooter{
+    margin-top: 0px;
+    text-align: center;
+}
+#fas {
+    padding: 20px;
+    font-size: 23px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.5;
+    text-decoration: none;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    margin-top: 30px;
+  }
+
+  .fa-whatsapp {
+    background: #25d366;
+    color: white;
+  }
+
+
+  .fa-github {
+    background: #000000;
+    color: white;
+  }
+
+
+  .fa-envelope-o {
+    background: #FF0000;
+    color: white;
+  }
+
+
+  .fa-linkedin {
+    background: #0077b5;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #ff03b3;
+    color: #fbad50;
+  }
+
+  .fa-youtube {
+    background: #ff0000;
+    color: white;
+  }
+
+  .fa-snapchat {
+    background: #FFFC00;
+    color: white;
+  }
+
+  .fa-telegram {
+    background: #229ED9;
+    color: #FFFFFF;
+  }
+
+
+  .fa-skype {
+    background: #FFFFFF;
+    color: #229ED9;
+  }
+
+

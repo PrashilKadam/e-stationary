@@ -1,0 +1,25 @@
+#profile{
+    text-align:center;
+    display: inline-block;
+    margin:0px;
+    font-size: 24px;
+}
+#cart{
+    display: inline-block;
+    margin-left: 1350px;
+}
+
+#itembody{
+    position: relative;
+    /* max-height: 600px; */
+    height: 85vh;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    overflow:hidden;
+    display: block;
+    overflow-y: auto;
+    box-shadow: 1px 3px 10px rgb(255 255 255 / 49%);
+}
+#itembody::-webkit-scrollbar {display:none;}

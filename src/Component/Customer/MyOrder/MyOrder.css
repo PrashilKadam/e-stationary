@@ -1,0 +1,36 @@
+#my-orders-head {
+    font-weight: lighter;
+    font-size: 25px;
+    padding: 45px 0px 0px 78px;
+}
+
+#border-order {
+    height: 75vh;
+    width: 90vw;
+    margin-left: 78px;
+    border: 1px solid white;
+}
+#order{
+    margin-top: 15px;
+}
+#order-details{
+    display: grid;
+    grid-template-columns: 150px 300px 100px;
+}
+
+#itemDetails{
+    display: inline;
+    float: right;
+    padding: 15px 0px 7px 15px;
+
+}
+#itemimage{
+    width: 150px;
+    height: 165px;
+    padding: 15px;
+    display: inline;
+    border-radius: 25px;
+}
+#orderId{
+    padding: 15px 0px 7px 15px;
+}

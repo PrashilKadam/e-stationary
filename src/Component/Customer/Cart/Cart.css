@@ -1,0 +1,84 @@
+#CartList{
+    overflow-y: hidden;
+    width: 32.5em;
+    max-height: 100%;
+    overflow: auto;
+}
+#nodataimg{
+    margin-top: 2.5%;
+    height: 95%;
+    width: auto;
+}
+#another-div{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+#clickhere{
+    color: yellow;
+}
+#text1{
+    font-size: 20px;
+}
+#List{
+    height: 630px;
+    width: 32.5em;
+    position: relative;
+}
+#container-0{
+ display: flex;
+}
+#invoice{
+    display: inline-block;   
+    margin: 10px;
+    border: 1px solid #2f44fd9a;
+    height: 620px;
+    width: 960px;
+    border-radius: 2%;
+}
+#invoice-details{
+    margin: 10px;
+    margin-left: 25px;
+}
+#total{
+    float: right;
+    margin-right: 20px;
+    font-weight: bold;
+}
+#checkbtn{
+    /* position: absolute;
+    right: 0;
+    bottom: 0; */
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 30px;
+    margin-right: 35px;
+}
+
+.orderplace {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .placeorder {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .placeorder:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+

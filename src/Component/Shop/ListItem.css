@@ -1,0 +1,44 @@
+#listItem {
+    background-color: rgba(60, 62, 65, 0.493);
+    color: white;
+    height: 45px;
+    width: 98%;
+    border-radius: 3%;
+    display: grid;
+    grid-template-columns: 250px 120px 120px 100px 100px;
+    margin-bottom: 10px;
+}
+
+#itemName {
+    font-size: 15px;
+    padding: 2%;
+    /* margin:auto; */
+    text-align: left;
+   top: 8px;
+   margin-left: 8px;
+    position: relative;
+
+}
+
+#itemPrice {
+    font-size: 14px;
+    padding-left: 2%;
+    margin: auto;
+}
+
+#itemQuantity {
+    margin: auto;
+    font-size: 14px;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+.button {
+    margin: auto;
+}
+
+.inputdata {
+    width: 45px;
+    height: 20px;
+    margin-left: 6px;
+}

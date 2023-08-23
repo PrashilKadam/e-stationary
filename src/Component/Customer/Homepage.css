@@ -1,0 +1,48 @@
+/* table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+   */
+#homegrid{
+  display: grid;
+  grid-template-columns: 45%  55%;
+  grid-template-rows: 60% 60%;
+  
+}
+#homegrid1{
+  margin-top: 40%;
+}
+
+   table {
+    font-family: 'Rockwell', 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 3px solid #cbc7c7;
+    text-align: left;
+    padding: 8px;
+  }
+
+#signin{
+  border-radius: 16px;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  font-family: 'sans-serif';
+  box-shadow: 1px 3px 10px #ffc107;
+}
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,59 @@
+#card{
+    border: 1px solid #5b5b5b;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#contains{
+    display: flex;
+    clear: none;
+    width:450px;
+}
+#img{
+    display: inline;
+    
+}
+#imgsrc{
+    height: 95px;
+    width: 80px;
+}
+#details{
+    margin-left: 10px;
+    display: inline;
+    
+    
+}
+#name{
+    font-size: 14px;
+    font-weight: bold;
+}
+.pq{
+   font-size: 12px; 
+}
+#controls{
+    
+    margin: auto;
+    width: 150px;
+}
+#input{
+    width: 40px;
+    text-align: center;
+}
+#dticon{
+    margin-left: 10px;
+    display: inline;
+    background-color: rgb(216, 42, 42);
+    color: white;
+}
+#box{
+    display: flex;
+}
+#setwidth{
+    display: inline;
+}
+#minus{
+    border-radius: 0px;
+}
+#plus{
+    border-radius: 0px;
+}
